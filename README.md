@@ -39,7 +39,7 @@ Place the CSV file in the same folder as app.py before running.
 ## ▶️ How to Run
 
 1. Clone the repo:
-git clone https://github.com/YOURUSERNAME/silent-churn-detector.git
+git clone https://github.com/YOURUSERNAME/silent-churn-detector.git](https://github.com/Thrisha83/silent-churn-detector
 
 2. Install dependencies:
 pip install -r requirements.txt
@@ -61,4 +61,4 @@ streamlit run app.py
 - Live Predictor — real time churn risk scoring
 
 ## 👤 Author
-Your Name — github.com/YOURUSERNAME
+Your Name — github.com/Thrisha83
