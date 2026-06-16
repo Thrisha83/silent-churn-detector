@@ -1,4 +1,4 @@
-<img width="1794" height="833" alt="Screenshot 2026-05-06 141345" src="https://github.com/user-attachments/assets/a3984f61-901e-4004-85c2-c61743466c15" /># 🔕 Silent Churn Detector
+
 
 > Detecting behavioral drift in telecom customers before they leave.
 
@@ -71,6 +71,10 @@ streamlit run app.py
 
 ### Model Insights
 ![Model Insights](screenshots/model_insights.png)
+![Model Insights](screenshots/model_insights_2.png)
+
+
+
 
 ### Live Predictor — High Risk
 ![Live Predictor](screenshots/live_predictor.png)
