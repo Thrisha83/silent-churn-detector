@@ -1,4 +1,4 @@
-# 🔕 Silent Churn Detector
+<img width="1794" height="833" alt="Screenshot 2026-05-06 141345" src="https://github.com/user-attachments/assets/a3984f61-901e-4004-85c2-c61743466c15" /># 🔕 Silent Churn Detector
 
 > Detecting behavioral drift in telecom customers before they leave.
 
@@ -59,6 +59,21 @@ streamlit run app.py
 - Drift Signals — behavioral drift visualisations
 - Model Insights — feature importance and confusion matrix
 - Live Predictor — real time churn risk scoring
+
+
+## 📸 Dashboard Screenshots
+
+### Overview
+![Overview](C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 103541.png)
+
+### Drift Signals
+![Drift Signals](C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 153033.png)
+
+### Model Insights
+![Model Insights]("C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 021315.png")
+
+### Live Predictor — High Risk
+![Live Predictor](C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 130750.png)
 
 ## 👤 Author
 Thrisha — github.com/Thrisha83
