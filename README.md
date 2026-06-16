@@ -71,7 +71,6 @@ streamlit run app.py
 
 ### Model Insights
 ![Model Insights](screenshots/model_insights.png)
-![Model Insights](screenshots/model_insights_2.png)
 
 
 
