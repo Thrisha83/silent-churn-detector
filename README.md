@@ -64,16 +64,16 @@ streamlit run app.py
 ## 📸 Dashboard Screenshots
 
 ### Overview
-![Overview](C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 103541.png)
+![Overview](screenshots/overview.png)
 
 ### Drift Signals
-![Drift Signals](C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 153033.png)
+![Drift Signals](screenshots/drift_signals.png)
 
 ### Model Insights
-![Model Insights]("C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 021315.png")
+![Model Insights](screenshots/model_insights.png)
 
 ### Live Predictor — High Risk
-![Live Predictor](C:\Users\Thrisha\OneDrive\Pictures\Screenshots 1\Screenshot 2026-05-06 130750.png)
+![Live Predictor](screenshots/live_predictor.png)
 
 ## 👤 Author
 Thrisha — github.com/Thrisha83
